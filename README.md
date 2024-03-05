@@ -1,5 +1,8 @@
 ###### Repositório destinado ao site "Panela Siarense", por AvuTech.
 <h1 align="center"> Panela Siarense </h1> 
+<p align="center">
+  <img width="300" height="300" src="https://github.com/elizateofilo/testes1/blob/main/IMG-20240301-WA0009%20(1).jpg?raw=true">
+</p>
 
 ## Introdução: 
 O site Panela Siarense surge da vontade de compartilhar e tornar acessível informações sobre a rica culinária do Ceará, permitindo que todos possam desfrutar e replicar os sabores de todas as regiões do estado, desde a capital até o Cariri. O site contará com um mapa interativo apresentando todas as divisões políticas do estado, além de diversas receitas associadas a cada região. Os usuários terão a possibilidade de autenticação, deixar comentários e favoritar suas receitas favoritas. Para sua construção, serão utilizadas as linguagens HTML, CSS, JavaScript e Node.js, com uso de EJS para renderização e um banco de dados baseado em MongoDB.
