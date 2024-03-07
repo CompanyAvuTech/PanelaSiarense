@@ -10,10 +10,37 @@ O site Panela Siarense surge da vontade de compartilhar e tornar acessível info
 ## Motivação: 
 Nossa motivação para o projeto "Panela Siarense" surge do desejo de compartilhar as delícias da culinária cearense com o mundo, acreditando que a comida vai além do simples ato de se alimentar - é uma forma de celebrar a cultura, tradição e identidade de um povo. Queremos inspirar as pessoas a experimentarem os sabores autênticos do Ceará, seja para os locais que desejam reviver memórias de casa, ou para os visitantes que desejam explorar novos horizontes gastronômicos. Assim, o "Panela Siarense" não apenas atende e informa aqueles que desejam explorar e conhecer as delícias do estado do Ceará, mas também busca proporcionar uma experiência enriquecedora e saborosa para todos aqueles interessados em descobrir e apreciar a culinária local, seja através da prática na cozinha ou do conhecimento sobre a cultura gastronômica cearense.
 
-
 ## Objetivos:
 * Variedade de Receitas: Oferecer uma ampla gama de receitas autênticas de todo o Ceará, representando a diversidade cultural e gastronômica do estado.
 * Valorização da Culinária e Cultura Cearenses: Celebrar e promover a rica herança culinária e cultural do Ceará, destacando suas tradições e ingredientes locais.
 * Educação e Conhecimento: Estimular o aprendizado sobre a cultura e a culinária do estado, fornecendo informações sobre os pratos e suas origens.
+
+
+
+###### Sobre o Wireframe do Site "PanelaSiarense"
+## Wireframe: 
+O wireframe neste repositório foi criado com o objetivo de representar os esboços iniciais e a estrutura preliminar do design site PanelaSiarense. Visando fornecer uma visão inicial da estrutura e layout do site, representando as diferentes páginas e funcionalidades. Ele abrange as seguintes áreas principais:
+
+- **Página Inicial:** Apresenta uma visão geral do site e destaca as principais seções e funcionalidades.
+- **Página de Login:** Permite que os usuários acessem suas contas inserindo suas credenciais.
+- **Página de Cadastro:** Permite que novos usuários criem uma conta no site fornecendo informações básicas.
+- **Página de Esqueceu a Senha:** Permite que os usuários solicitem a redefinição da senha.
+- **Página de Receitas:** Lista as receitas disponíveis, permitindo aos usuários explorar e descobrir novos pratos.
+- **Página de Detalhes da Receita:** Fornece informações detalhadas sobre uma receita específica, incluindo ingredientes, instruções de preparo e imagens.
+- **Página de Perfil do Usuário:** Mostra informações do perfil do usuário, como nome, foto, e algumas configurações.
+- **Página de Alterar Senha:** Permite que os usuários alterem sua senha atual para uma nova.
+
+[Wireframe](Wireframe): O wireframe pode ser visualizado diretamente no repositório. Ele está disponível no formato em PDF para facilitar a visualização.
+
+[Fluxo_de_Tela](Fluxo_de_Tela): Aqui disponibilizamos o fluxo de tela do site PanelaSiarence, mostrando a navegação entre as diferentes páginas e interações do usuário.
+
+## Contato
+
+Para mais informações sobre o projeto PanelaSiarense ou para entrar em contato com a equipe, você pode nos encontrar nos seguintes canais:
+
+- Email: [avutech6gmail.com](avutech6gmail.com)
+- GitHub: [CompanyAvuTech](https://github.com/CompanyAvuTech)
+
+  
 
 
