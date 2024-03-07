@@ -15,7 +15,12 @@ Nossa motivação para o projeto "Panela Siarense" surge do desejo de compartilh
 * Valorização da Culinária e Cultura Cearenses: Celebrar e promover a rica herança culinária e cultural do Ceará, destacando suas tradições e ingredientes locais.
 * Educação e Conhecimento: Estimular o aprendizado sobre a cultura e a culinária do estado, fornecendo informações sobre os pratos e suas origens.
 
+## Estrutura do Repositório:
+[Mockup](Mockup): Nesta seção, você encontrará o Mockup no formato em PDF para facilitar a visualização.
 
+[Wireframe](Wireframe): O wireframe pode ser visualizado diretamente no repositório. Ele está disponível no formato em PDF para facilitar a visualização.
+
+[Fluxo_de_Tela](Fluxo_de_Tela): Aqui disponibilizamos o fluxo de tela do site PanelaSiarence, mostrando a navegação entre as diferentes páginas e interações do usuário.
 
 ###### Sobre o Wireframe do Site "PanelaSiarense"
 ## Wireframe: 
@@ -30,9 +35,17 @@ O wireframe neste repositório foi criado com o objetivo de representar os esbo�
 - **Página de Perfil do Usuário:** Mostra informações do perfil do usuário, como nome, foto, e algumas configurações.
 - **Página de Alterar Senha:** Permite que os usuários alterem sua senha atual para uma nova.
 
-[Wireframe](Wireframe): O wireframe pode ser visualizado diretamente no repositório. Ele está disponível no formato em PDF para facilitar a visualização.
 
-[Fluxo_de_Tela](Fluxo_de_Tela): Aqui disponibilizamos o fluxo de tela do site PanelaSiarence, mostrando a navegação entre as diferentes páginas e interações do usuário.
+###### Sobre o Mockup do Site "PanelaSiarense"
+## Mockup 
+O mockup foi criado(Figma) para fornecer uma representação visual detalhada de como um site real de comida cearense pode ser projetado. Ele oferece uma visualização detalhada do design do site, incluindo layout, cores?, tipografia? e elementos de interface.
+
+### Visualização e Edição:
+
+Para visualizar e editar o mockup, siga estas etapas:
+
+* Abra o arquivo [Mockup-AvuTech](https://www.figma.com/file/ei20XoKCfJbyLhqm0iOSv0/Mockup-AvuTech?type=design&node-id=0%3A1&mode=design&t=iaCacyyEhwh6NJyt-1) no Figma.
+* Você pode visualizar cada tela individualmente e também editar o design conforme necessário.
 
 ## Contato
 
