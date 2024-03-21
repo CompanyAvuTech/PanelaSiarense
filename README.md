@@ -61,12 +61,22 @@ O protótipo pode ser acessado diretamente no Figma através do seguinte link: [
 
 ## Primeiro Teste: Cadastro e Login 
 
+### Codagem: 
+
 Para visualizar e testar as primeiras páginas do site, siga estas etapas:
 
 * Abra o seguintes arquivos no Replit:
- * https://replit.com/@ACGS1/Login-Siarense-1#index.html  
- * https://replit.com/@SophiaMello/login-and-signup#index.js 
-* Você pode visualizar toda a codificação das telas e também editar conforme necessário.
+ * https://replit.com/@ACGS1/Login-Siarense-1#index.html
+ * https://replit.com/@ACGS1/SignUp-Siarense#index.html
+ * https://replit.com/@SophiaMello/login-and-signup#index.js
+
+Você pode visualizar toda a codificação das telas e também editar conforme necessário.
+
+
+### Banco de Dados: 
+
+Para ter aceso e visualizar o banco de dados do site, acesse o link através do MongoDB:  
+* https://cloud.mongodb.com/v2/65f4cc6462c6b141cc49d082#/overview 
 
 
 ## Contato
