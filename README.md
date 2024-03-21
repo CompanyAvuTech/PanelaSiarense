@@ -57,7 +57,15 @@ Apresentação de Pratos Típicos: Destaca os pratos mais conhecidos da culinár
 Interação com Receitas Tradicionais: Os usuários podem explorar receitas autênticas do Estado, com instruções passo a passo e dicas de preparo. A interação permite a visualização detalhada das etapas de preparação e dos ingredientes necessários.
 
 ### Como Utilizar o Protótipo
-O protótipo pode ser acessado diretamente no Figma através do seguinte link: [Protótipo do site PanelaSiarense](https://www.figma.com/proto/1w7IPVuEw7wI0GnoPSRoQv/PanelaSiarence?type=design&node-id=102-2&t=XJAJ6VLgcc4rpIit-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A2&show-proto-sidebar=1).
+O protótipo pode ser acessado diretamente no Figma através do seguinte link: [Protótipo do site PanelaSiarense](https://www.figma.com/proto/1w7IPVuEw7wI0GnoPSRoQv/PanelaSiarence?type=design&node-id=102-2&t=XJAJ6VLgcc4rpIit-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=102%3A2&show-proto-sidebar=1). 
+
+## Primeiro Teste: Cadastro e Login 
+
+Para visualizar e testar as primeiras páginas do site, siga estas etapas:
+
+* Abra o arquivo https://replit.com/@ACGS1/Login-Siarense-1#index.html no Replit.
+* Você pode visualizar toda a codificação das telas e também editar conforme necessário.
+
 
 ## Contato
 
