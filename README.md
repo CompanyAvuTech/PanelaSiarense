@@ -68,7 +68,6 @@ Para visualizar e testar as primeiras páginas do site, siga estas etapas:
 * Abra o seguintes arquivos no Replit:
  * https://replit.com/@ACGS1/Login-Siarense-1#index.html
  * https://replit.com/@ACGS1/SignUp-Siarense#index.html
- * https://replit.com/@SophiaMello/login-and-signup#index.js
 
 Você pode visualizar toda a codificação das telas e também editar conforme necessário.
 
